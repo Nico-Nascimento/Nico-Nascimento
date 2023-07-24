@@ -1,4 +1,6 @@
-## Bem-vindo(a) 😁
+## Eai pessoa, bem-vindo(a) ao humilde perfil de um dev 👨‍💻
+
+Principais Tecs 👇
 
 </div>
 <div style="display: inline_block"><br>
