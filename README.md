@@ -2,7 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas - UniFatecie
 
-Alguns cursos já concluidos e/ou em andamento: 
+Alguns cursos já concluídos e/ou em andamento: 
 - Desenvolvimento Web com JavaScript e TypeScript – Node, noSQL, React – Udemy (Concluído)
 - Testes de Software - cultura Ágil, DevOps, Cypress, API Rest e SQL - EBAC (Em Andamento)
 - Despertar.Dev - Web Full Stack com JavaScript, VueJs, AngularJs, PHP, Laravel... - Growdev (Em Andamento)
