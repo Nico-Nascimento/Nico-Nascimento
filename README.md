@@ -1,5 +1,7 @@
 ## Eai pessoa, bem-vindo(a) ao humilde perfil de um growdever em construção 👨‍💻
 
+Apaixonado por programação! Buscando constantemente aprendizado em Dev Web Full Stack...
+
 Estudante de Análise e Desenvolvimento de Sistemas - UniFatecie
 
 Alguns cursos já concluídos e/ou em andamento: 
