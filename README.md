@@ -1,6 +1,6 @@
 ## Eai pessoa, bem-vindo(a) 👨‍💻
 
-Apaixonado por programação! Buscando constantemente aprendizado em Desenvolvimento Web Full Stack...
+Sou apaixonado por programação web e jogos! Buscando constantemente aprendizado em Desenvolvimento Web Full Stack...
 
 Graduado em Análise e Desenvolvimento de Sistemas - UniFatecie
 
