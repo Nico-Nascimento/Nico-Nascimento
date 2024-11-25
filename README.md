@@ -7,7 +7,7 @@ Graduado em Análise e Desenvolvimento de Sistemas - UniFatecie
 Alguns cursos já concluídos e/ou em andamento: 
 - Desenvolvimento Web com JavaScript e TypeScript – Node, noSQL, React – Udemy (Concluído)
 - Desenvolvimento Full Stack LaraVue - Tiago Freire Matos - hotmart (Em Andamento)
-- Despertar.Dev - Web Full Stack com JavaScript, VueJs, Vuetify, PHP e Laravel - Growdev (Em Andamento)
+- Despertar.Dev - Web Full Stack com JavaScript, VueJs, Vuetify, PHP e Laravel - Growdev (Concluído)
 
 Principais Tecs 👇
 
