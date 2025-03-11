@@ -3,6 +3,7 @@
 Sou apaixonado por programação web e jogos! Buscando constantemente aprendizado em Desenvolvimento Web Full Stack...
 
 Graduado em Análise e Desenvolvimento de Sistemas - UniFatecie
+Pós Graduação em Desenvolvimento Web - IMES
 
 Alguns cursos já concluídos e/ou em andamento: 
 - Desenvolvimento Web com JavaScript e TypeScript – Node, noSQL, React – Udemy (Concluído)
